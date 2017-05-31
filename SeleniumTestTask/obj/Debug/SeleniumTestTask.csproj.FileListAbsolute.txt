@@ -1,0 +1,13 @@
+D:\SeleniumTestTask\SeleniumTestTask\bin\Debug\SeleniumTestTask.exe.config
+D:\SeleniumTestTask\SeleniumTestTask\bin\Debug\SeleniumTestTask.exe
+D:\SeleniumTestTask\SeleniumTestTask\bin\Debug\SeleniumTestTask.pdb
+D:\SeleniumTestTask\SeleniumTestTask\bin\Debug\WebDriver.dll
+D:\SeleniumTestTask\SeleniumTestTask\obj\Debug\SeleniumTestTask.csprojResolveAssemblyReference.cache
+D:\SeleniumTestTask\SeleniumTestTask\obj\Debug\SeleniumTestTask.Form1.resources
+D:\SeleniumTestTask\SeleniumTestTask\obj\Debug\SeleniumTestTask.Properties.Resources.resources
+D:\SeleniumTestTask\SeleniumTestTask\obj\Debug\SeleniumTestTask.csproj.GenerateResource.Cache
+D:\SeleniumTestTask\SeleniumTestTask\obj\Debug\SeleniumTestTask.exe
+D:\SeleniumTestTask\SeleniumTestTask\obj\Debug\SeleniumTestTask.pdb
+D:\SeleniumTestTask\SeleniumTestTask\bin\Debug\WebDriver.Support.dll
+D:\SeleniumTestTask\SeleniumTestTask\bin\Debug\WebDriver.xml
+D:\SeleniumTestTask\SeleniumTestTask\bin\Debug\WebDriver.Support.xml
